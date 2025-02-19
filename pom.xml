@@ -20,7 +20,11 @@
     </properties>
 
     <modules>
+<<<<<<< HEAD
 
+=======
+        <module>catalog-service</module>
+>>>>>>> 1ae1eed ( added catlog servies to the project)
     </modules>
 
 
