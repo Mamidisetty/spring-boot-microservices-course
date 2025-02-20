@@ -1,6 +1,6 @@
 # Spring Boot Microservices Course
 
-![image](https://github.com/user-attachments/assets/e770f0ea-d27b-4c2e-b44e-ec71d5fbb87d)
+
 
 We will build a BookStore application using Spring Boot, Spring Cloud, and Docker.
 
